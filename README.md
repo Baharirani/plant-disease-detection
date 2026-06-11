@@ -1,7 +1,9 @@
 # plant-disease-detection
 # 🌿 Advanced Image Classification for Automated Plant Disease Detection
+
 ![Python](https://img.shields.io/badge/Python-3.8+-blue) ![PyTorch](https://img.shields.io/badge/Framework-PyTorch-orange) ![Computer Vision](https://img.shields.io/badge/Field-Computer%20Vision%20%7C%20Deep%20Learning-green)
-## 📌 Project Overview
+
+## 📌 Project Overvie
 
 This project develops and evaluates a deep learning system for **automated plant disease detection** using image classification. Two convolutional neural network architectures are compared — a custom-built SimpleCNN trained from scratch and a **ResNet50 transfer learning model** — using the PlantVillage dataset. The goal is to support smart agricultural applications through early and accurate disease identification.
 
